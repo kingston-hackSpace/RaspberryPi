@@ -1,4 +1,4 @@
-# RaspberryPi
+# RaspberryPi (RPi)
 
 ## How to set up your Raspberry Pi (If installing from scratch)
 
@@ -27,6 +27,21 @@ You also will need a ethernet of WIFI connection.
 ## How to log-in to a Raspberry Pi
 
 Follow the steps asked during the login process
+
    Username: hackSpace
+
    Password: pi
+
+---
+## Accessing WIFI/Ethernet 
+
+If possible, connect your Raspberry Pi to Ethernet. A wired connection makes early configuration tasks (such as setting the date and time) more reliable, and an internet connection will be needed later to download installation packages.
+
+Wi-Fi also works well, but Eduroam networks can sometimes cause connection difficulties.
+
+Read more about initial settings [here](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+
+---
+## More info:
+https://www.raspberrypi.com/
    
