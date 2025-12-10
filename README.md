@@ -1,4 +1,6 @@
-# RaspberryPi (RPi)
+# Raspberry Pi (RPi)
+
+Read more about the Raspberry Pi [here](https://www.raspberrypi.com/)
 
 ## How to set up your Raspberry Pi (If installing from scratch)
 
