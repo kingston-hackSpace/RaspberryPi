@@ -48,9 +48,9 @@ Wi-Fi also works well, but Eduroam networks can sometimes cause connection diffi
 ---
 ## GPIO pinout
 
-Se the Raspberry Pi GPIO pinout [here]
+See the Raspberry Pi GPIO pinout [diagram here](https://github.com/kingston-hackSpace/RaspberryPi/blob/main/GPIO-diagram.png)
 
-Read more about what is the GPIO usage on Raspberry Pi devices [here]
+Read more about what is the GPIO usage on Raspberry Pi devices [here](https://github.com/kingston-hackSpace/RaspberryPi/blob/main/GPIO-usage-info.pdf)
 
 Read more about initial settings [here](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 
