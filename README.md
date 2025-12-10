@@ -1,6 +1,10 @@
 # Raspberry Pi (RPi)
 
-Read more about the Raspberry Pi [here](https://www.raspberrypi.com/)
+Visit RaspberryPi.com  : [here](https://www.raspberrypi.com/)
+
+Learn from the Raspberry Pi Documentation : [here](https://www.raspberrypi.com/documentation/)
+
+----
 
 ## How to set up your Raspberry Pi (If installing from scratch)
 
@@ -40,6 +44,13 @@ Follow the steps asked during the login process
 If possible, connect your Raspberry Pi to Ethernet. A wired connection makes early configuration tasks (such as setting the date and time) more reliable, and an internet connection will be needed later to download installation packages.
 
 Wi-Fi also works well, but Eduroam networks can sometimes cause connection difficulties.
+
+---
+## GPIO pinout
+
+Se the Raspberry Pi GPIO pinout [here]
+
+Read more about what is the GPIO usage on Raspberry Pi devices [here]
 
 Read more about initial settings [here](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 
