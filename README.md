@@ -13,7 +13,7 @@ Learn from the Raspberry Pi Documentation : [here](https://www.raspberrypi.com/d
 
 - HDMI cable
 
-- micro SD Card 16GB (min) [see advice](https://www.raspberrypi.com/documentation/computers/getting-started.html#recommended-sd-cards)
+- micro SD Card 16GB (or bigger) [see advice](https://www.raspberrypi.com/documentation/computers/getting-started.html#recommended-sd-cards)
 
 - Mouse and Keyboard
 
