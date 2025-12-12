@@ -27,13 +27,13 @@ You also will need a ethernet of WIFI connection.
   
    [Download Raspberry Pi Imager](https://www.raspberrypi.com/software/)
    
-4. Insert the SD card into your computer.
+4. Insert the SD card (16GB or bigger) into your computer.
 5. Open the Raspberry Pi Imager software.
 6. At the Imager softare, choose:
    
     * **Device** – Select your Raspberry Pi model.
 
-    * **Operating System** – Choose the 64-bit version (use the recommended settings).
+    * **Operating System** – Choose the **64-bit** version (use the recommended settings).
 
     * **Storage** – Select your SD card.
   
