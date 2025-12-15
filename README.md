@@ -4,6 +4,7 @@ Visit RaspberryPi.com  : [here](https://www.raspberrypi.com/)
 
 Learn from the Raspberry Pi Documentation : [here](https://www.raspberrypi.com/documentation/)
 
+
 ----
 ## HARDWARE REQUIRED
 
@@ -90,15 +91,23 @@ Follow the steps asked during the login process:
     
   - Launch
     
+---
+## Software Ready!
+
+The Raspberry Pi Operating System is now installed. You should see a Desktop image on your screen. 
+
+Read more about what comes with your RPi Desktop [here]
+
+Read more about the extended options the Raspberry Pi Software offers [here](https://www.raspberrypi.com/software/)
 
 ---
 ## Accessing WIFI/Ethernet 
 
 Access to the internet is fundamental. You will need an internet connection to download specific development packages for your projects.
 
-ETHERNET: If possible, connect your Raspberry Pi via Ethernet. A wired connection is reliable and easy to set up. Just plug an Ethernet cable into your RPi. 
+**ETHERNET:** If possible, connect your Raspberry Pi via Ethernet. A wired connection is reliable and easy to set up. Just plug an Ethernet cable into your RPi. 
 
-WIFI: Wi-Fi also works well, but **avoid Eduroam**. Eduroam networks can sometimes cause connection issues due to their security protocols. If you experience problems, try using a non-eduroam Wi-Fi network.
+**WIFI:** Wi-Fi also works well, but **avoid Eduroam**. Eduroam networks can sometimes cause connection issues due to their security protocols. If you experience problems, try using a non-eduroam Wi-Fi network.
 
 ---
 ## GPIO pinout
@@ -111,5 +120,8 @@ Read more about initial settings [here](https://www.raspberrypi.com/documentatio
 
 ---
 ## More info:
-https://www.raspberrypi.com/
+
+RPi : https://www.raspberrypi.com/
+
+GETTING STARTED : https://www.raspberrypi.com/documentation/computers/getting-started.html
    
