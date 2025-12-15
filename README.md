@@ -96,8 +96,6 @@ Follow the steps asked during the login process:
 
 The Raspberry Pi Operating System is now installed. You should see a Desktop image on your screen. 
 
-Read more about what comes with your RPi Desktop [here]
-
 Read more about the extended options the Raspberry Pi Software offers [here](https://www.raspberrypi.com/software/)
 
 ---
