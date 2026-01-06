@@ -28,7 +28,7 @@ You also will need a ethernet of WIFI connection.
 
 ---
 
-## How to log-in to a Raspberry Pi
+## How to log-in to a Raspberry Pi (for the first time)
 
 Follow the steps asked during the login process:
 
