@@ -4,20 +4,6 @@ Visit RaspberryPi.com  : [here](https://www.raspberrypi.com/)
 
 Learn from the Raspberry Pi Documentation : [here](https://www.raspberrypi.com/documentation/)
 
-
-----
-## HARDWARE REQUIRED
-
-- Raspberry Pi model 4B or higher
-
-- Rpi power cable
-
-- HDMI cable
-
-- micro SD Card 16GB (or bigger) [see advice](https://www.raspberrypi.com/documentation/computers/getting-started.html#recommended-sd-cards)
-
-- Mouse and Keyboard
-
 ----
 ## How to set up your Raspberry Pi (If installing from scratch)
 
