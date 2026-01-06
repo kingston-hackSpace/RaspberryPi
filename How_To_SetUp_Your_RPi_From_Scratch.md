@@ -1,5 +1,11 @@
 ## How to set up your Raspberry Pi (If installing from scratch)
 
+The following instructions are based on RPi official instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+Visit for guidance
+
+----
+## HS TUTORIAL
+
 0. Your Raspberry Pi should be connected to a keyboard and mouse via USB port, and a screen via HDMI.
 You also will need a ethernet of WIFI connection.
 
