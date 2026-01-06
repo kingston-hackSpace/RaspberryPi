@@ -5,7 +5,7 @@ Visit RaspberryPi.com  : [here](https://www.raspberrypi.com/)
 Learn from the Raspberry Pi Documentation : [here](https://www.raspberrypi.com/documentation/)
 
 ----
-## How to set up your Raspberry Pi (If installing from scratch)
+## Set up RPi *from scratch*
 
 Tutorial : [here](https://github.com/kingston-hackSpace/RaspberryPi/blob/main/How_To_SetUp_Your_RPi_From_Scratch.md)
 
