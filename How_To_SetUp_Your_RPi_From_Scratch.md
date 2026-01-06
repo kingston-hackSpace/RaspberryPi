@@ -5,7 +5,23 @@ The following instructions are based on RPi official instructions [here](https:/
 Visit for guidance.
 
 ----
-## RPi TUTORIAL (hackSpace credentials)
+# RPi TUTORIAL (hackSpace credentials)
+
+----
+## HARDWARE REQUIRED
+
+- Raspberry Pi model 4B or higher
+
+- Rpi power cable
+
+- HDMI cable
+
+- micro SD Card 16GB (or bigger) [see advice](https://www.raspberrypi.com/documentation/computers/getting-started.html#recommended-sd-cards)
+
+- Mouse and Keyboard
+
+----
+## INSTRUCTIONS
 
 0. Your Raspberry Pi should be connected to a keyboard and mouse via USB port, and a screen via HDMI.
 You also will need a ethernet of WIFI connection.
