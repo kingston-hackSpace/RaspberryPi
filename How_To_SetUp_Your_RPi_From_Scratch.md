@@ -1,7 +1,8 @@
 ## How to set up your Raspberry Pi (If installing from scratch)
 
 The following instructions are based on RPi official instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html)
-Visit for guidance
+
+Visit for guidance.
 
 ----
 ## HS TUTORIAL
