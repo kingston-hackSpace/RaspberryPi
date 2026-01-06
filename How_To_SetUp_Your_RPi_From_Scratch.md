@@ -5,7 +5,7 @@ The following instructions are based on RPi official instructions [here](https:/
 Visit for guidance.
 
 ----
-## HS TUTORIAL
+## RPi TUTORIAL (hackSpace credentials)
 
 0. Your Raspberry Pi should be connected to a keyboard and mouse via USB port, and a screen via HDMI.
 You also will need a ethernet of WIFI connection.
